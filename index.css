@@ -1,0 +1,21 @@
+body {
+    size: 100%;
+    background-color: rgb(211, 221, 230);
+}
+
+
+h1 {
+    font-size: 100px;
+    margin-left: 500;
+    color: crimson;
+}
+div {
+    margin-left: 10;
+}
+.tx1 {
+    
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(164, 205, 255);
+    margin-left: 100;
+}
